@@ -32,6 +32,6 @@ func main() {
 	var isLoading = true
 	fmt.Println(isLoading)
 
-	varIsNotLoading := !isLoading
-	fmt.Println(varIsNotLoading)
+	isNotLoading := !isLoading
+	fmt.Println(isNotLoading)
 }
