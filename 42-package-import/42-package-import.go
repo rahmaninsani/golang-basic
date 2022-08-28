@@ -1,7 +1,7 @@
 package main
 
 import (
-	"golang-basic/helper"
+	"42-package-import/helper"
 )
 
 func main() {
